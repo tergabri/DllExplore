@@ -1,0 +1,13 @@
+C:\Devs\C#\Projects\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+C:\Devs\C#\Projects\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe
+C:\Devs\C#\Projects\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.pdb
+C:\Devs\C#\Projects\WpfApplication1\WpfApplication1\obj\Debug\DLLExport.csprojResolveAssemblyReference.cache
+C:\Devs\C#\Projects\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.baml
+C:\Devs\C#\Projects\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.g.cs
+C:\Devs\C#\Projects\WpfApplication1\WpfApplication1\obj\Debug\App.g.cs
+C:\Devs\C#\Projects\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+C:\Devs\C#\Projects\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+C:\Devs\C#\Projects\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+C:\Devs\C#\Projects\WpfApplication1\WpfApplication1\obj\Debug\DLLExport.csproj.GenerateResource.Cache
+C:\Devs\C#\Projects\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.exe
+C:\Devs\C#\Projects\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.pdb

@@ -1,0 +1,29 @@
+Microsoft (R) COFF/PE Dumper Version 11.00.61030.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+
+Dump of file C:\ToDoList\GanttChartExt.dll
+
+File Type: DLL
+
+  Section contains the following exports for GanttChartExt.dll
+
+    00000000 characteristics
+    52F59BD1 time date stamp Sat Feb 08 02:52:01 2014
+        0.00 version
+           1 ordinal base
+           2 number of functions
+           2 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00004630 CreateUIExtensionInterface
+          2    1 00004650 GetInterfaceVersion
+
+  Summary
+
+        3000 .data
+        5000 .rdata
+        5000 .reloc
+        2000 .rsrc
+       1D000 .text
